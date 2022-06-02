@@ -1,1 +1,7 @@
-.
+{ 
+    "BuildId": "12", 
+    "BuildTitle": "Atualização Disponivel", 
+    "BuildMsg": "Atualização Disponivel na PlayStore(V12)\n\nObs: Limpe os dados e cache do app após atualizar", 
+    "BtConfirmar": "ATUALIZAR", 
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net" 
+}
