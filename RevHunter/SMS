@@ -1,7 +1,15 @@
-{ 
-    "BuildId": "12", 
-    "BuildTitle": "Atualização Disponivel", 
-    "BuildMsg": "Atualização Disponivel na PlayStore(V12)\n\nObs: Limpe o Cache e Dados do App após atualizar", 
-    "BtConfirmar": "ATUALIZAR", 
-    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net" 
+{
+    "Aviso": true,
+    "HtmlSuport": true,
+    "MsgAviso": "<p style=\"text-align: center;\">HUNTERS LEIAM ⤵️</p><p style=\"text-align: left;\">🟣VIVO - TODOS OS DDD'S✅</p><p style=\"text-align: left;\">🔵TIM - PAROU DE FUNCIONAR NA MAIOR PARTE DAS REGI&Otilde;ES❌</p><p style=\"text-align: left;\">🔴CLARO - PAROU DE FUNCIONAR NA MAIOR PARTE DAS REGI&Otilde;ES❌</p><p style=\"text-align: left;\">🟡OI - CONTINUA DO MESMO JEITO✅</p><p style=\"text-align: left;\">&nbsp;</p><p><span style=\"color: #0000ff;\">⚠️: PRESTEM ANTENÇÃO NAS NOTIFICAÇÕES DO APP E NO NOSSO GRUPO OFICIAL DO TELEGRAM @REVHUNTER. QUANDO SAIR NOVIDADES IREMOS ATUALIZAR RAPIDAMENTE. 🌟</span></p><p><span style=\"color: #ff6600;\">A QUEDA DAS CONEX&Otilde;ES N&Atilde;O &Eacute; NOSSA CULPA! VAMOS AGUARDAR APARECER NOVAS CONEXÕES. 👾.</span></p>",
+    "Alert": false,
+    "Title": "",
+    "Text": "",
+    "UrlSuporte": false,
+    "EnableCancel": false,
+    "SetCancelable": false,
+    "PushNotification": false,
+    "TextConfirmar": "",
+    "TextCancel": "",
+    "Url": ""
 }
