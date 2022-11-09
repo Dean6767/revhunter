@@ -1,1 +1,19 @@
-.
+{
+    "Aviso": true,
+    "HtmlSuport": true,
+    "MsgAviso": "<p style=\"text-align: center;\">HUNTERS LEIAM ⬇️</p><p style=\"text-align: left;\">🟣 VIVO - TODOS DDD'S NA CONEXÃO (FRONT) OU COM VIVO EASY ATIVO ✅</p><p style=\"text-align: left;\">🔵 TIM - FUNCIONANDO COM SALDO EM VALIDADE ✅</p><p style=\"text-align: left;\">🔴 CLARO - ALGUMAS REGIÕES ⚙️</p><p style=\"text-align: left;\">🟡 OI - FUNCIONANDO ✅</p><p style=\"text-align: left;\">&nbsp;</p><p><span style=\"color: #800080;\">➡️ PRESTEM ATENÇÃO NAS NOTIFICAÇÕES DO APP, ENTREM NO NOSSO CANAL OFICIAL DO TELEGRAM @REVHUNTER. QUANDO SAIR NOVIDADES IREMOS ATUALIZAR RAPIDAMENTE. 🌟</span></p><p><span style=\"color: #ff6600;\">➡️ A QUEDA DAS CONEX&Otilde;ES N&Atilde;O &Eacute; NOSSA CULPA! VAMOS AGUARDAR APARECER NOVAS CONEXÕES. 💡</span></p>",
+    "Alert": false,
+    "Image": false,
+    "ImgUrl": "",
+    "CurrentId": 1,
+    "SaveId": false,
+    "Title": "Teste",
+    "Text": "",
+    "UrlSuporte": false,
+    "EnableCancel": true,
+    "SetCancelable": false,
+    "PushNotification": true,
+    "TextConfirmar": "Certo",
+    "TextCancel": "Fechar",
+    "Url": ""
+}
