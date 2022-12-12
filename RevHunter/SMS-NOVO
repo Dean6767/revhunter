@@ -12,7 +12,7 @@
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": false,
-    "PushNotification": true,
+    "PushNotification": false,
     "TextConfirmar": "CANAL TELEGRAM",
     "TextCancel": "NÃO QUERO",
     "Url": "https://t.me/REVHUNTER"
