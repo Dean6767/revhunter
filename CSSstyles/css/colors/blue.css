@@ -1,0 +1,97 @@
+/*------------------------------------------------------------------
+ * Website Name: Antler
+ * App URI: http://inebur.com/antler/template/
+ * Author: inebur
+ * Author URI: http://inebur.com/
+ * Copyright 2018 Antler
+ * Version: 1.0 
+
+ * Blue Color Skin
+ -------------------------------------------------------------------*/
+
+/* Blue Light */
+svg #svg-ico{fill:#ab1cd6;}
+svg #svg-concept{stroke:#ab1cd6;}
+.golink{color:#ab1cd6 !important;border-bottom:solid 1px #ab1cd6;}
+.golink:hover{color:#ab1cd6 !important;}
+.bg-pink{background-color:#ab1cd6 !important;}
+.c-pink{color:#ab1cd6 !important;}
+.bb-pink{border-bottom:solid 1px #ab1cd6 !important;}
+.popover{border:solid 1px #ab1cd6;}
+.popover .arrow::before{border-top-color:#ab1cd6;}
+.popover .popover-header{background-color:#ab1cd6;}
+::selection{background:#ab1cd6;}
+.nav-menu .main-menu > .menu-item > .sub-menu > .menu-item a:hover{color:#ab1cd6;}
+.nav-menu .main-menu .menu-item .menu-large .service-list .service .media-body a:hover{color:#ab1cd6;}
+.megamenu .start-offer .inner{background-color:#ab1cd6;}
+.megamenu .service-list .service.special .media-body a:hover{color:#ab1cd6;}
+.megamenu .service-list .service .media-body a:hover{color:#ab1cd6;}
+.megamenu-list .service-list .service .media-body a:hover{color:#ab1cd6;}
+.team .wrapper:hover .team-info .desc{color:#ab1cd6;}
+.wpc-cloud-range .noUi-connect{background-color:#ab1cd6;}
+.wpc-cloud-range .noUi-tooltip:before{border-color:#ab1cd6 transparent transparent transparent;}
+.wpc-cloud-range .noUi-tooltip{background-color:#ab1cd6;}
+.wpc-cloud-range .noUi-horizontal .noUi-handle{background-color:#ab1cd6;}
+.wpc-vps-info .title .info{color:#ab1cd6;}
+.fullrock .closer{color:#ab1cd6 !important;}
+.form-control:focus{border:solid 1px #ab1cd6 !important;}
+.sec-bg5{background-color:#ab1cd6;}
+.total-grad{background:linear-gradient(-60deg, #ab1cd6 0%,#e81031 100%) !important;}
+.total-grad-inverse{background:linear-gradient(240deg, #e81031 0%,#ab1cd6 100%);}
+.total-grad-pink-blue-intense {background: linear-gradient(240deg, #000000 50%, #003d4a 100%);}
+.menu-wrap.fixed{background:linear-gradient(89deg,#e81031 3%,#ab1cd6 98%);}
+.btn-default-pink{color:#ab1cd6;border:1px solid #ab1cd6;}
+.btn-default-pink:hover{background-color:#ab1cd6;}
+.btn-default-grad-purple-fill{background-image:linear-gradient(to right, #e81031, #ab1cd6 40%, #ab1cd6 40%, #e81031);}
+.btn-default-grad-purple-fill:hover{background-image:linear-gradient(to right, #e81031, #ab1cd6 40%, #ab1cd6 40%, #e81031);}
+.btn-default-pink-fill{background-color:#ab1cd6 !important;}
+.owl-theme .owl-dots .owl-dot.active span{border:solid 1px #ab1cd6 !important;}
+.pricing .wrapper .title{color:#ab1cd6;}
+.pricing .list-info{background-color:#ab1cd6;}
+.slick #slider .plan-container .title{color:#ab1cd6;}
+.tabs-header .btn-secondary:not(:disabled):not(.disabled).active{background-color:#ab1cd6 !important;}
+.tabs.offers-tabs .tabs-header .active{border-left:solid 1px #ab1cd6;color:#ab1cd6;}
+.tabs.offers-tabs .tabs-header .active:hover{color:#ab1cd6;}
+.fill-input:focus{border-color:#ab1cd6 !important;}
+.countdown .wrapper .clock div:first-child{border:solid 1px #ab1cd6;background-color:#ab1cd6;}
+.accordion.faq .panel-title.active{border-bottom:solid 1px #ab1cd6;}
+.blog .sidebar .heading.active{color:#ab1cd6;}
+.blog .sidebar .posts .tabs-header li.active{color:#ab1cd6;border-bottom-color:#ab1cd6;}
+.blog .sidebar .line.active:before{background-color:#ab1cd6;}
+.blog .media .media-heading a:hover{color:#ab1cd6;}
+.blog .wrap-blog .social-icon i{color:#ab1cd6;}
+.blog .sidebar .categories .heading a.active{color:#ab1cd6;}
+.blog .sidebar .categories .heading a:after{color:#ab1cd6;}
+.blog .sidebar .categories .heading span{color:#ab1cd6;}
+.circle-section .title-round{color:#ab1cd6;}
+.domain-prices li{color:#ab1cd6;}
+.maping .datacenters{background:#ab1cd6;}
+.footer .soc-icons i{color:#ab1cd6;}
+.included i{color:#ab1cd6;}
+.soc-icons-apply span{color:#ab1cd6;}
+.bigline{border:solid 1px #ab1cd6;}
+.smallline{border:solid 1px #ab1cd6;}
+.knowledge a{color:#ab1cd6;}
+.godown span{color:#ab1cd6;}
+.cd-filter-block input[type=radio]:checked + label::before, .cd-filter-block input[type=checkbox]:checked + label::before{border:solid 1px #ab1cd6 !important;background-color:#ab1cd6 !important;}
+.cd-filter-block select:hover{border:solid 1px #ab1cd6 !important;}
+.cd-filter-block input:focus,
+.cd-filter-block select:focus{border-color:#ab1cd6 !important;}
+.range-slider-input::-webkit-slider-runnable-track{background:#ab1cd6;}
+.range-slider-input::-webkit-slider-thumb{background:#ab1cd6;}
+.zoo-content .icoo i{background-color:#ab1cd6;}
+.services .service-wrap .pay img{border:solid 1px #ab1cd6;}
+.page-item.active .page-link{background-color:#ab1cd6 !important;border-color:#ab1cd6 !important;}
+.cd-filter-block input.range-slider-input{background-color:#ab1cd6 !important;}
+.range-slider-input::-webkit-slider-thumb{background-color:#ab1cd6 !important;}
+.range-slider-input::-moz-range-thumb{background-color:#ab1cd6 !important;}
+/* Blue Dark */
+.bg-purple{background-color:#e81031 !important;}
+.c-purple{color:#e81031 !important;}
+.sec-grad-white-to-purple{background:linear-gradient(90deg, #fff 70%, #e81031 0%) !important;}
+.btn-default-purple{color:#e81031;border:1px solid #e81031;}
+.btn-default-purple:hover{background-color:#e81031;}
+.btn-default-purple-fill{background-color:#e81031 !important;}
+.pricing .table .title{color:#e81031;}
+.accordion.faq .panel-title.active{color:#e81031 !important;}
+.wpc-vps-info .price-wrap .title{background-color:#e81031;}
