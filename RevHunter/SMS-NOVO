@@ -7,13 +7,13 @@
     "ImgUrl": "https://deanpola.xyz/RevHunter/img/sorteiorev.jpg",
     "CurrentId": 4,
     "SaveId": true,
-    "Title": "BOAS NOTÍCIAS ⬇️",
-    "Text": "AS CONEXÕES (FRONT) VOLTARAM..🔥✅",
-    "UrlSuporte": false,
-    "EnableCancel": false,
+    "Title": "ENTRE EM NOSSO CANAL ⬇️",
+    "Text": "FAÇA PARTE DO NOSSO CANAL NO TELEGRAM",
+    "UrlSuporte": true,
+    "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": false,
-    "TextConfirmar": "CERTO",
+    "TextConfirmar": "ENTRAR",
     "TextCancel": "FECHAR",
-    "Url": "https://dean6767.github.io/revhunter/RevHunter/tutorialroxa.html"
+    "Url": "https://t.me/RevHunter"
 }
