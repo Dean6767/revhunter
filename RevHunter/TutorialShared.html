@@ -2,6 +2,8 @@
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<title>HOST SHARED</title>
 	<style>
 		body {
@@ -11,44 +13,63 @@
 			font-size: 18px;
 			margin: 0;
 		}
+		.container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+		}
+		.video-container {
+			margin-bottom: 20px;
+		}
+		.step {
+			text-align: left;
+			margin-left: 20px;
+		}
 	</style>
 </head>
 <body>
-
-	<center>
-		<img src="https://dean6767.github.io/revhunter/img/revhunter.png" style="height: 180px;">
-		<font color="white"><b><br>ASSISTA AO TUTORIAL<br><br>COLOQUE O VÍDEO EM TELA CHEIA!</font>
+	<div class="container">
+		<div class="video-container">
+			<img src="https://dean6767.github.io/revhunter/img/revhunter.png" style="height: 180px;">
+			<font color="white"><b><br>ASSISTA AO TUTORIAL<br><br>COLOQUE O VÍDEO EM TELA CHEIA!</font>
+			<br>
+			<br>
+			<video width="300" height="200" controls>
+				<source src="https://dean6767.github.io/revhunter/videos/roteadorrev.mp4" type="video/mp4">
+				<source src="movie.ogg" type="video/ogg">
+				Your browser does not support the video tag.
+			</video>
+		</div>
+		<div class="step">
+			<font color="white"><b>👾 PASSO 1 - SE CONECTE NO APLICATIVO... LEIA TODO ESSE TEXTO E ASSISTA O VÍDEO ACIMA. ⚠️</b></font>
+		</div>
 		<br>
-		<br>
-		<video width="300" height="200" controls>
-			<source src="https://dean6767.github.io/revhunter/videos/roteadorrev.mp4" type="video/mp4">
-			<source src="movie.ogg" type="video/ogg">
-			Your browser does not support the video tag.
-		</video>
-		<br>
-		<br>
-		        <font color="white"><b>👾 PASSO 1 - SE CONECTE NO APLICATIVO... LEIA TODO ESSE TEXTO E ASSISTA O VÍDEO ACIMA. ⚠️</b></font>
-		<br>
-		<br>
+		<div class="step">
 			<font color="white"><b>👾 PASSO 2 - VÁ NAS CONFIGURAÇÕES DO SEU CELULAR E ATIVE O PONTO DE ACESSO (ROTEADOR WI-FI).</b></font>
+		</div>
 		<br>
-		<br>
+		<div class="step">
 			<font color="white"><b>👾 PASSO 3 - VÁ NAS CONFIGURAÇÕES DO REVHUNTER E ATIVE A OPÇÃO DE COMPARTILHAR INTERNET.</b></font>
+		</div>
 		<br>
-		<br>
+		<div class="step">
 			<font color="white"><b>👾 PASSO 4 - ANOTE AS INFORMAÇÕES QUE O APP IRÁ TE FORNECER (ENDEREÇO IP E PORTA PROXY).</b></font>
+		</div>
 		<br>
-		<br>
+		<div class="step">
 			<font color="white"><b>👾 PASSO 5 - AGORA NO CELULAR/DISPOSITIVO QUE VOCÊ IRÁ USAR O WI-FI ROTEADO... ANTES DE SE CONECTAR DESCE UM POUCO NAS CONFIGURAÇÕES E ATIVE O PROXY MANUAL... LEMBRA DO ENDEREÇO IP E PORTA PROXY QUE PEDI PARA VOCÊ COPIAR? VAI TER A OPÇÃO DE COLOCAR NO PROXY MANUAL... COLOQUE E SE CONECTE.</b></font>
-		<br>
-		<br>
-			<font color="white"><b>🌟 PASSO FINAL - PRONTO INTERNET FUNCIONANDO, ALGUNS APPS PODEM NÃO FUNCIONAR CORRETAMENTE DEVIDO AO USO DE PROXY. O ÍCONE DO WI-FI PODE MOSTRAR QUE ESTÁ SEM INTERNET MAS É ASSIM MESMO. ✅</b></font>
-		<br>
-                <br>	
-		<br>
-			<font color="white"><b>💡 ASSISTA AO VÍDEO NO INÍCIO DA PÁGINA PARA UM MELHOR ENTENDIMENTO!</b></font>
-                <br>
-                <br>
-      </center>
+        </div>
+        <br>
+        <div class="step">
+        <font color="white"><b>🌟 PASSO FINAL - PRONTO INTERNET FUNCIONANDO, ALGUNS APPS PODEM NÃO FUNCIONAR CORRETAMENTE DEVIDO AO USO DE PROXY. O ÍCONE DO WI-FI PODE MOSTRAR QUE ESTÁ SEM INTERNET MAS É ASSIM MESMO. ✅</b></font>
+        </div>
+        <br>
+        <div class="step">
+        <font color="white"><b>💡 ASSISTA AO VÍDEO NO INÍCIO DA PÁGINA PARA UM MELHOR ENTENDIMENTO!</b></font>	
+	</div>
+	<br>
+
 </body>
 </html>
